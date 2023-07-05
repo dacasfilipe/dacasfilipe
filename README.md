@@ -1,8 +1,10 @@
 ### Olá devs 👋
 
-#### Eu sou o professor Filipe
+#### Eu sou o professor Filipe apaixonado por tecnologia e educação.
 
-#### Desenvolvedor Backend
+#### Especialista em formação em Ciência de Dados com Foco em Inteligência Artificial
+
+#### Desenvolvedor Back-end
 
 #### Bem vindo ao meu perfil GitHub 👋
 
