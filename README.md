@@ -2,9 +2,9 @@
 
 #### Eu sou o professor Filipe, apaixonado por tecnologia, pessoas e educação.
 
-#### Especialista em formação em Ciência de Dados com Foco em Inteligência Artificial
+#### Especialista em Ciência de Dados e Inteligência Artificial
 
-#### Desenvolvedor Back-end
+#### Desenvolvedor Back-end em Java, NodeJS
 
 #### Bem vindo ao meu perfil GitHub 👋
 
