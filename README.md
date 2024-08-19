@@ -1,6 +1,6 @@
 ### Olá devs 👋
 
-#### Eu sou o professor Filipe, apaixonado por tecnologia, pessoas e educação.
+#### Eu sou o professor Filipe, apaixonado por programação e tecnologia, pessoas e educação.
 
 #### Especialista em Ciência de Dados e Inteligência Artificial
 
